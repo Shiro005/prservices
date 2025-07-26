@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Dashboard from './Pages/Dashboard';
 import AddClient from './Pages/AddClient';
-import Navbar from './components/Navbar';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
